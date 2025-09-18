@@ -1,4 +1,4 @@
-Linux Server Hardening (Task 1)
+Linux Server Hardening
 
 This project demonstrates **basic server hardening and security setup** on an Ubuntu server (AWS EC2 instance).  
 It’s part of my journey as a **Systems Administrator & Cloud Engineer** to practice and showcase hands-on skills.
