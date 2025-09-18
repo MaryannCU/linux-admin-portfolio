@@ -1,0 +1,12 @@
+● unattended-upgrades.service - Unattended Upgrades Shutdown
+     Loaded: loaded (/usr/lib/systemd/system/unattended-upgrades.service; enabled; preset: enabled)
+     Active: active (running) since Thu 2025-09-18 16:17:55 UTC; 52min ago
+       Docs: man:unattended-upgrade(8)
+   Main PID: 691 (unattended-upgr)
+      Tasks: 2 (limit: 1121)
+     Memory: 9.5M (peak: 9.7M)
+        CPU: 77ms
+     CGroup: /system.slice/unattended-upgrades.service
+             └─691 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+
+Sep 18 16:17:55 ip-172-31-18-182 systemd[1]: Started unattended-upgrades.service - Unattended Upgrades Shutdown.
