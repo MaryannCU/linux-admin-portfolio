@@ -1,0 +1,8 @@
+alarm: cpu_usage
+on: system.cpu
+lookup: average -1m percentage of user,system
+units: %
+every: 1m
+warn: $this > 70
+crit: $this > 90
+info: CPU usage is too high
