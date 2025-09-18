@@ -28,7 +28,6 @@ Skills Demonstrated
 - Automation with shell commands  
 - Git & GitHub portfolio building  
  
+https://www.upwork.com/freelancers/~0164b93e80ca09a1b3?s=1017484851352698927&p=1968707633721458688
 
----
-
-💡 *This repo is part of my portfolio to showcase my practical SysAdmin & Cloud Engineering skills. If you’re hiring, let’s connect!*  
+This repo is part of my portfolio to showcase my practical SysAdmin & Cloud Engineering skills. If you’re hiring, let’s connect!  
